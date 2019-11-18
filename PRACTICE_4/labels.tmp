@@ -1,0 +1,35 @@
+<ASSEMBLER_INFO>
+ <WORKING_DIR>c:\</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files\Atmel\AVR Tools\AvrAssembler2\Appnotes\m48def.inc</FILE>
+ </INCLUDED_FILES>
+ <LABELS>
+  <reset><FILE>Z:\PROGRAMS\PRACTICE_4\PRACTICE_4.asm</FILE><LINE>26</LINE></reset>
+  <int_0><FILE>Z:\PROGRAMS\PRACTICE_4\PRACTICE_4.asm</FILE><LINE>136</LINE></int_0>
+  <int_count><FILE>Z:\PROGRAMS\PRACTICE_4\PRACTICE_4.asm</FILE><LINE>149</LINE></int_count>
+  <config_int_timer0><FILE>Z:\PROGRAMS\PRACTICE_4\PRACTICE_4.asm</FILE><LINE>127</LINE></config_int_timer0>
+  <display><FILE>Z:\PROGRAMS\PRACTICE_4\PRACTICE_4.asm</FILE><LINE>84</LINE></display>
+  <load_data><FILE>Z:\PROGRAMS\PRACTICE_4\PRACTICE_4.asm</FILE><LINE>48</LINE></load_data>
+  <main><FILE>Z:\PROGRAMS\PRACTICE_4\PRACTICE_4.asm</FILE><LINE>62</LINE></main>
+  <delay_5ms><FILE>Z:\PROGRAMS\PRACTICE_4\PRACTICE_4.asm</FILE><LINE>110</LINE></delay_5ms>
+  <delay_1s><FILE>Z:\PROGRAMS\PRACTICE_4\PRACTICE_4.asm</FILE><LINE>88</LINE></delay_1s>
+  <lazo3><FILE>Z:\PROGRAMS\PRACTICE_4\PRACTICE_4.asm</FILE><LINE>90</LINE></lazo3>
+  <lazo2><FILE>Z:\PROGRAMS\PRACTICE_4\PRACTICE_4.asm</FILE><LINE>92</LINE></lazo2>
+  <lazo1><FILE>Z:\PROGRAMS\PRACTICE_4\PRACTICE_4.asm</FILE><LINE>94</LINE></lazo1>
+  <lazo2_1><FILE>Z:\PROGRAMS\PRACTICE_4\PRACTICE_4.asm</FILE><LINE>112</LINE></lazo2_1>
+  <lazo1_1><FILE>Z:\PROGRAMS\PRACTICE_4\PRACTICE_4.asm</FILE><LINE>114</LINE></lazo1_1>
+  <cambiar><FILE>Z:\PROGRAMS\PRACTICE_4\PRACTICE_4.asm</FILE><LINE>155</LINE></cambiar>
+  <return><FILE>Z:\PROGRAMS\PRACTICE_4\PRACTICE_4.asm</FILE><LINE>153</LINE></return>
+  <aumentar><FILE>Z:\PROGRAMS\PRACTICE_4\PRACTICE_4.asm</FILE><LINE>183</LINE></aumentar>
+  <decrementar><FILE>Z:\PROGRAMS\PRACTICE_4\PRACTICE_4.asm</FILE><LINE>159</LINE></decrementar>
+  <reset_unidades_dec><FILE>Z:\PROGRAMS\PRACTICE_4\PRACTICE_4.asm</FILE><LINE>167</LINE></reset_unidades_dec>
+  <disminuir_decenas><FILE>Z:\PROGRAMS\PRACTICE_4\PRACTICE_4.asm</FILE><LINE>169</LINE></disminuir_decenas>
+  <reset_decenas_dec><FILE>Z:\PROGRAMS\PRACTICE_4\PRACTICE_4.asm</FILE><LINE>175</LINE></reset_decenas_dec>
+  <reset_unidades><FILE>Z:\PROGRAMS\PRACTICE_4\PRACTICE_4.asm</FILE><LINE>190</LINE></reset_unidades>
+  <aumentar_decenas><FILE>Z:\PROGRAMS\PRACTICE_4\PRACTICE_4.asm</FILE><LINE>192</LINE></aumentar_decenas>
+  <reset_decenas><FILE>Z:\PROGRAMS\PRACTICE_4\PRACTICE_4.asm</FILE><LINE>198</LINE></reset_decenas>
+ </LABELS>
+</ASSEMBLER_INFO>

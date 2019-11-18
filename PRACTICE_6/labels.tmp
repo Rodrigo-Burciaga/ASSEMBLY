@@ -1,0 +1,26 @@
+<ASSEMBLER_INFO>
+ <WORKING_DIR>c:\</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files\Atmel\AVR Tools\AvrAssembler2\Appnotes\m48def.inc</FILE>
+ </INCLUDED_FILES>
+ <LABELS>
+  <reset><FILE>Z:\PROGRAMS\PRACTICE_6\PRACTICE_6.asm</FILE><LINE>26</LINE></reset>
+  <int_0><FILE>Z:\PROGRAMS\PRACTICE_6\PRACTICE_6.asm</FILE><LINE>125</LINE></int_0>
+  <compa><FILE>Z:\PROGRAMS\PRACTICE_6\PRACTICE_6.asm</FILE><LINE>148</LINE></compa>
+  <display><FILE>Z:\PROGRAMS\PRACTICE_6\PRACTICE_6.asm</FILE><LINE>101</LINE></display>
+  <load_data><FILE>Z:\PROGRAMS\PRACTICE_6\PRACTICE_6.asm</FILE><LINE>62</LINE></load_data>
+  <main><FILE>Z:\PROGRAMS\PRACTICE_6\PRACTICE_6.asm</FILE><LINE>70</LINE></main>
+  <delay_5ms><FILE>Z:\PROGRAMS\PRACTICE_6\PRACTICE_6.asm</FILE><LINE>105</LINE></delay_5ms>
+  <lazo2_1><FILE>Z:\PROGRAMS\PRACTICE_6\PRACTICE_6.asm</FILE><LINE>107</LINE></lazo2_1>
+  <lazo1_1><FILE>Z:\PROGRAMS\PRACTICE_6\PRACTICE_6.asm</FILE><LINE>109</LINE></lazo1_1>
+  <return><FILE>Z:\PROGRAMS\PRACTICE_6\PRACTICE_6.asm</FILE><LINE>126</LINE></return>
+  <aumentar><FILE>Z:\PROGRAMS\PRACTICE_6\PRACTICE_6.asm</FILE><LINE>127</LINE></aumentar>
+  <reset_unidades><FILE>Z:\PROGRAMS\PRACTICE_6\PRACTICE_6.asm</FILE><LINE>132</LINE></reset_unidades>
+  <aumentar_decenas><FILE>Z:\PROGRAMS\PRACTICE_6\PRACTICE_6.asm</FILE><LINE>133</LINE></aumentar_decenas>
+  <reset_decenas><FILE>Z:\PROGRAMS\PRACTICE_6\PRACTICE_6.asm</FILE><LINE>138</LINE></reset_decenas>
+  <reset_centenas><FILE>Z:\PROGRAMS\PRACTICE_6\PRACTICE_6.asm</FILE><LINE>144</LINE></reset_centenas>
+ </LABELS>
+</ASSEMBLER_INFO>

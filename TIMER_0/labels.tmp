@@ -1,0 +1,17 @@
+<ASSEMBLER_INFO>
+ <WORKING_DIR>c:\</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files\Atmel\AVR Tools\AvrAssembler2\Appnotes\m48def.inc</FILE>
+ </INCLUDED_FILES>
+ <LABELS>
+  <reset><FILE>Z:\PROGRAMS\TIMER_0\TIMER_0.asm</FILE><LINE>10</LINE></reset>
+  <int_count><FILE>Z:\PROGRAMS\TIMER_0\TIMER_0.asm</FILE><LINE>30</LINE></int_count>
+  <main><FILE>Z:\PROGRAMS\TIMER_0\TIMER_0.asm</FILE><LINE>25</LINE></main>
+  <toogle><FILE>Z:\PROGRAMS\TIMER_0\TIMER_0.asm</FILE><LINE>35</LINE></toogle>
+  <return><FILE>Z:\PROGRAMS\TIMER_0\TIMER_0.asm</FILE><LINE>34</LINE></return>
+  <clear_bit><FILE>Z:\PROGRAMS\TIMER_0\TIMER_0.asm</FILE><LINE>41</LINE></clear_bit>
+ </LABELS>
+</ASSEMBLER_INFO>

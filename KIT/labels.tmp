@@ -1,0 +1,20 @@
+<ASSEMBLER_INFO>
+ <WORKING_DIR>c:\</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files\Atmel\AVR Tools\AvrAssembler2\Appnotes\m48def.inc</FILE>
+ </INCLUDED_FILES>
+ <LABELS>
+  <delay_125m><FILE>Z:\PROGRAMS\KIT\KIT.asm</FILE><LINE>55</LINE></delay_125m>
+  <main><FILE>Z:\PROGRAMS\KIT\KIT.asm</FILE><LINE>21</LINE></main>
+  <rotar><FILE>Z:\PROGRAMS\KIT\KIT.asm</FILE><LINE>28</LINE></rotar>
+  <izquierda><FILE>Z:\PROGRAMS\KIT\KIT.asm</FILE><LINE>37</LINE></izquierda>
+  <derecha><FILE>Z:\PROGRAMS\KIT\KIT.asm</FILE><LINE>30</LINE></derecha>
+  <rec_izq><FILE>Z:\PROGRAMS\KIT\KIT.asm</FILE><LINE>48</LINE></rec_izq>
+  <rec_der><FILE>Z:\PROGRAMS\KIT\KIT.asm</FILE><LINE>45</LINE></rec_der>
+  <lazo2><FILE>Z:\PROGRAMS\KIT\KIT.asm</FILE><LINE>56</LINE></lazo2>
+  <lazo1><FILE>Z:\PROGRAMS\KIT\KIT.asm</FILE><LINE>57</LINE></lazo1>
+ </LABELS>
+</ASSEMBLER_INFO>

@@ -1,0 +1,15 @@
+<ASSEMBLER_INFO>
+ <WORKING_DIR>c:\</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files\Atmel\AVR Tools\AvrAssembler2\Appnotes\m48def.inc</FILE>
+ </INCLUDED_FILES>
+ <LABELS>
+  <main><FILE>Z:\PROGRAMS\Hello_World\Hello_World.asm</FILE><LINE>14</LINE></main>
+  <delay_5ms><FILE>Z:\PROGRAMS\Hello_World\Hello_World.asm</FILE><LINE>22</LINE></delay_5ms>
+  <lazo2><FILE>Z:\PROGRAMS\Hello_World\Hello_World.asm</FILE><LINE>23</LINE></lazo2>
+  <lazo1><FILE>Z:\PROGRAMS\Hello_World\Hello_World.asm</FILE><LINE>24</LINE></lazo1>
+ </LABELS>
+</ASSEMBLER_INFO>

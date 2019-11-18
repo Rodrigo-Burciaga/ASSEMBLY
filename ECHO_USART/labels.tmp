@@ -1,0 +1,15 @@
+<ASSEMBLER_INFO>
+ <WORKING_DIR>c:\</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files\Atmel\AVR Tools\AvrAssembler2\Appnotes\m48def.inc</FILE>
+ </INCLUDED_FILES>
+ <LABELS>
+  <reset><FILE>Z:\PROGRAMS\ECHO_USART\ECHO_USART.asm</FILE><LINE>12</LINE></reset>
+  <int_rx><FILE>Z:\PROGRAMS\ECHO_USART\ECHO_USART.asm</FILE><LINE>29</LINE></int_rx>
+  <configure_usart><FILE>Z:\PROGRAMS\ECHO_USART\ECHO_USART.asm</FILE><LINE>16</LINE></configure_usart>
+  <main><FILE>Z:\PROGRAMS\ECHO_USART\ECHO_USART.asm</FILE><LINE>23</LINE></main>
+ </LABELS>
+</ASSEMBLER_INFO>

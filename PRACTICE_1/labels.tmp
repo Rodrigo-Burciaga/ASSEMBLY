@@ -1,0 +1,13 @@
+<ASSEMBLER_INFO>
+ <WORKING_DIR>c:\</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files\Atmel\AVR Tools\AvrAssembler2\Appnotes\m48def.inc</FILE>
+ </INCLUDED_FILES>
+ <LABELS>
+  <settings><FILE>Z:\PROGRAMS\PRACTICE_1\PRACTICE_1.asm</FILE><LINE>7</LINE></settings>
+  <main><FILE>Z:\PROGRAMS\PRACTICE_1\PRACTICE_1.asm</FILE><LINE>12</LINE></main>
+ </LABELS>
+</ASSEMBLER_INFO>

@@ -1,5 +1,5 @@
 
-AVRASM ver. 2.0.28  Z:\PROGRAMS\ASSEMBLY\ECHO_USART\ECHO_USART.asm Tue Nov 19 17:49:06 2019
+AVRASM ver. 2.0.28  Z:\PROGRAMS\ASSEMBLY\PRACTICE_9\PRACTICE_9.asm Sat Nov 23 22:20:39 2019
 
 
 EQU  signature_000 0000001e
@@ -662,7 +662,42 @@ EQU  twiaddr      00000018
 EQU  spmraddr     00000019
 EQU  int_vectors_size 0000001a
 DEF  temp         r16
+DEF  cont1        r17
+DEF  cont2        r18
+DEF  counter_letters r19
+DEF  tecla        r20
+DEF  offset       r21
+DEF  copia_letter r22
 CSEG reset        00000013
-CSEG int_rx       00000022
-CSEG configure_usart 00000017
-CSEG main         00000020
+CSEG int_rx       000000ea
+CSEG delay_100ms  00000052
+CSEG configure_usart 00000018
+CSEG configure_lcd 00000022
+CSEG output_lcd   00000060
+CSEG delay_5ms    00000044
+CSEG configure_keypad 00000036
+CSEG main         0000003b
+CSEG file1_pressed 00000065
+CSEG file2_pressed 00000068
+CSEG file3_pressed 0000006b
+CSEG file4_pressed 0000006e
+CSEG lazo4        00000045
+CSEG lazo3        00000046
+CSEG lazo2        00000053
+CSEG lazo1        00000054
+CSEG presshorizontal 00000085
+CSEG verify_overflow 00000071
+CSEG change_line  00000076
+CSEG reset_lcd    0000007c
+CSEG algorithm_output_lcd 000000df
+CSEG leecolumnas  0000008c
+CSEG col1_pressed 00000099
+CSEG col2_pressed 000000a4
+CSEG col3_pressed 000000b1
+CSEG col4_pressed 000000be
+CSEG cambiar_offset 000000cd
+CSEG regreso      000000ca
+CSEG segundo_offset 000000d7
+CSEG tercer_offset 000000d9
+CSEG cuarto_offset 000000db
+CSEG quinto_offset 000000dd

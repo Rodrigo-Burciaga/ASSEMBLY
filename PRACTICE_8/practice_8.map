@@ -1,5 +1,5 @@
 
-AVRASM ver. 2.0.28  Z:\PROGRAMS\ASSEMBLY\ECHO_USART\ECHO_USART.asm Tue Nov 19 17:49:06 2019
+AVRASM ver. 2.0.28  Z:\PROGRAMS\ASSEMBLY\PRACTICE_8\PRACTICE_8.asm Wed Nov 20 03:14:07 2019
 
 
 EQU  signature_000 0000001e
@@ -662,7 +662,21 @@ EQU  twiaddr      00000018
 EQU  spmraddr     00000019
 EQU  int_vectors_size 0000001a
 DEF  temp         r16
+DEF  cont1        r17
+DEF  cont2        r18
+DEF  counter_letters r19
 CSEG reset        00000013
-CSEG int_rx       00000022
+CSEG int_rx       0000006a
+CSEG delay_100ms  00000045
 CSEG configure_usart 00000017
-CSEG main         00000020
+CSEG configure_lcd 00000021
+CSEG output_lcd   00000053
+CSEG delay_5ms    00000037
+CSEG main         00000035
+CSEG lazo4        00000038
+CSEG lazo3        00000039
+CSEG lazo2        00000046
+CSEG lazo1        00000047
+CSEG verify_overflow 00000058
+CSEG change_line  0000005d
+CSEG reset_lcd    00000063

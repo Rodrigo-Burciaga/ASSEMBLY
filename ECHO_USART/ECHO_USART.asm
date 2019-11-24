@@ -13,6 +13,7 @@ reset:				ldi temp, $ff
 					out ddrb, temp
 					ldi temp, $02				; pin de transmisión y recepción entrada y salida
 					out ddrd, temp
+
 configure_usart:	sts	ucsr0a, temp
 					ldi temp, $98
 					sts ucsr0b, temp
